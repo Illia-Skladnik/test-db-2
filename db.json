@@ -1,13 +1,13 @@
-{
-  someData: {
+[
+  {
     "first_name": "Bob",
     "last_name": "Smith",
     "is_alive": true,
   }
-  someDat2a: {
+   {
     "street_address": "21 2nd Street",
     "city": "New York but not",
     "state": "NY",
     "postal_code": "10021-3100"
   }
-}
+]
