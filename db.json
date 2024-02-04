@@ -1,13 +1,11 @@
-[
-  {
-    "first_name": "Bob",
-    "last_name": "Smith",
-    "is_alive": true,
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-   {
-    "street_address": "21 2nd Street",
-    "city": "New York but not",
-    "state": "NY",
-    "postal_code": "10021-3100"
-  }
-]
+}
